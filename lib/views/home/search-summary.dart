@@ -1,11 +1,9 @@
-import 'package:Yatadabaron/dtos/verse-dto.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../blocs/search-session-bloc.dart';
 import '../../dtos/search-session-payload.dart';
 import '../../views/shared-widgets/loading-widget.dart';
-import 'package:share/share.dart';
 
 class SearchSummaryWidget extends StatelessWidget {
   @override

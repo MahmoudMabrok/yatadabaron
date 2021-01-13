@@ -1,5 +1,4 @@
 import 'package:Yatadabaron/blocs/mushaf-bloc.dart';
-import 'package:Yatadabaron/helpers/global-colors.dart';
 import 'package:Yatadabaron/views/mushaf/mushaf.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
